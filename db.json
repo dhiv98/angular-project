@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Vaccination Appointment",
+      "day": "Aug 23th at 11:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Grocery shopping",
+      "day": "Aug 24th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Virtual Meeting",
+      "day": "Aug 25th at 1:30pm",
+      "reminder": false
+    }
+  ]
+}
